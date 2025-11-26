@@ -77,3 +77,15 @@ https://introcs.cs.princeton.edu/java/23recursion/
 
 > * [doctest —— Test interactive Python examples](https://docs.python.org/3/library/doctest.html)
 > * [unittest —— Unit testing framework](https://docs.python.org/3/library/unittest.html)
+
+## DIG
+
+有了以上的基础知识之后，再去阅读 Python Decorator Library 的 Wiki 页面就会轻松许多：
+
+> https://wiki.python.org/moin/PythonDecoratorLibrary
+
+## regex
+
+在 Python 代码中使用正则表达式，匹配和捕获以及随后的替换，有更灵活的方式，因为可以对那些值直接编程。`re.sub()` 中，`repl` 参数甚至可以接收另外一个函数作为参数 —— 以后你肯定会自行认真阅读以下页面中的所有内容：
+
+> https://docs.python.org/3/library/re.html
