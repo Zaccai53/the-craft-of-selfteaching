@@ -89,3 +89,22 @@ https://introcs.cs.princeton.edu/java/23recursion/
 在 Python 代码中使用正则表达式，匹配和捕获以及随后的替换，有更灵活的方式，因为可以对那些值直接编程。`re.sub()` 中，`repl` 参数甚至可以接收另外一个函数作为参数 —— 以后你肯定会自行认真阅读以下页面中的所有内容：
 
 > https://docs.python.org/3/library/re.html
+
+## be thorough
+
+而其他人写的呢？比如 [Think Python](http://greenteapress.com/wp/think-python-2e/)，比如 [A Bite of Python](https://python.swaroopch.com/)，再比如 [Dive into Python](https://linux.die.net/diveintopython/html/)<a href='#fn1' name='fn1b'><sup>[1]</sup></a>，以及网上很多很多免费的 Python 教程都写得很好呢！
+
+## social self-teaching
+
+> 顺带给你看个 Wikipedia 上的链接列表，在编程领域里，有无数可以借鉴到生活中的哲学、方法论：
+> - [If it ain't broke, don't fix it](https://en.wikipedia.org/wiki/If_it_ain%27t_broke,_don%27t_fix_it)
+> - [KISS principle](https://en.wikipedia.org/wiki/KISS_principle)
+> - [Don't repeat yourself](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
+> - [Feature creep](https://en.wikipedia.org/wiki/Feature_creep)
+> - [List of software development philosophies](https://en.wikipedia.org/wiki/List_of_software_development_philosophies)
+> - [Minimum viable product](https://en.wikipedia.org/wiki/Minimum_viable_product)
+> - [MoSCoW method](https://en.wikipedia.org/wiki/MoSCoW_method)
+> - [Overengineering](https://en.wikipedia.org/wiki/Overengineering)
+> - [Worse is better](https://en.wikipedia.org/wiki/Worse_is_better)
+> - [S.O.L.I.D.](https://en.wikipedia.org/wiki/SOLID)
+> - [Unix philosophy](https://en.wikipedia.org/wiki/Unix_philosophy)
